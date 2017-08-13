@@ -109,3 +109,20 @@
 ![](http://odssgnnpf.bkt.clouddn.com/404@2x.png)
 
 > 该状态码表示服务器上无法找到请求的资源，除此之外也可以在服务端拒绝请求，但不想说明任何理由时使用。
+
+## 5xx 服务器错误
+
+> 5xx的响应结果表示服务器本身出现错误
+
+### 4.5.1 500 Internal Server Error
+
+![](http://odssgnnpf.bkt.clouddn.com/500@2x.png)
+
+>  该状态表明服务端在执行请求时发生了错误，也有可能是web应用存在的bug或某些临时性故障。
+
+
+### 4.5.2 503 Service Unavalible
+
+![](http://odssgnnpf.bkt.clouddn.com/503@2x.png)
+
+> 该状态码表示服务器暂时处于超负荷或者停机维护，现在无法处理请求。
