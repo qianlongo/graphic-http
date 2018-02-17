@@ -6,11 +6,12 @@
 
 - [ ] [第1章-了解web及网络基础](https://github.com/qianlongo/graphic-http/blob/master/%E7%AC%AC1%E7%AB%A0-%E4%BA%86%E8%A7%A3web%E5%8F%8A%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80.md)
 
-- [ ] [第2章-简单的http协议](https://github.com/qianlongo/graphic-http/blob/master/%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E7%AE%80%E5%8D%95%E7%9A%84http%E5%8D%8F%E8%AE%AE.md)
+- [ ] [第2章-简单的http协议](https://github.com/qianlongo/graphic-http/blob/master/%E7%AC%AC2%E7%AB%A0-%E7%AE%80%E5%8D%95%E7%9A%84http%E5%8D%8F%E8%AE%AE.md)
 
-- [ ] [第3章-http报文内的http信息](https://github.com/qianlongo/graphic-http/blob/master/%E7%AC%AC%E4%B8%89%E7%AB%A0-http%E6%8A%A5%E6%96%87%E5%86%85%E7%9A%84http%E4%BF%A1%E6%81%AF.md)
+- [ ] [第3章-http报文内的http信息](https://github.com/qianlongo/graphic-http/blob/master/%E7%AC%AC3%E7%AB%A0-http%E6%8A%A5%E6%96%87%E5%86%85%E7%9A%84http%E4%BF%A1%E6%81%AF.md)
 
 - [ ] [第4章-返回结果的http状态码](https://github.com/qianlongo/graphic-http/blob/master/%E7%AC%AC4%E7%AB%A0-%E8%BF%94%E5%9B%9E%E7%BB%93%E6%9E%9C%E7%9A%84http%E7%8A%B6%E6%80%81%E7%A0%81.md)
 
-- [ ] [第5章-返回结果的http状态码](https://github.com/qianlongo/graphic-http/blob/master/%E7%AC%AC4%E7%AB%A0-%E8%BF%94%E5%9B%9E%E7%BB%93%E6%9E%9C%E7%9A%84http%E7%8A%B6%E6%80%81%E7%A0%81.md)
+- [ ] [第6章-http首部](https://github.com/qianlongo/graphic-http/blob/master/%E7%AC%AC6%E7%AB%A0-http%E9%A6%96%E9%83%A8.md)
 
+- [ ] [第7章-确保Web安全的HTTPS](https://github.com/qianlongo/graphic-http/blob/master/%E7%AC%AC7%E7%AB%A0-%E7%A1%AE%E4%BF%9DWeb%E5%AE%89%E5%85%A8%E7%9A%84HTTPS.md)
